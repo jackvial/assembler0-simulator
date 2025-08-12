@@ -45,23 +45,3 @@ Access the simulator at `http://localhost:1337`
 
 ## Requirements
 - Linux with NVIDIA GPU (EGL rendering support required)
-
-## Development
-
-### Backend
-```bash
-# Run with auto-reload
-uvicorn assembler0_simulator.backend.main:app --reload
-```
-
-### Frontend
-```bash
-# Development with hot-reload
-npm run dev
-
-# Type checking
-npm run type-check
-
-# Production build
-npm run build
-```
