@@ -2,7 +2,7 @@
 
 Server side MuJoCo simulator with browser based frontend.
 
-![Sim Web Viewer](media/web_viewer.png )
+![Sim Web Viewer](./media/web_viewer.png)
 
 ## Installation
 
