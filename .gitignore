@@ -141,6 +141,11 @@ wandb/
 *.jpg
 *.jpeg
 
+# Exception for media folder images
+!media/*.png
+!media/*.jpg
+!media/*.jpeg
+
 # IDE files
 .vscode/
 .idea/
